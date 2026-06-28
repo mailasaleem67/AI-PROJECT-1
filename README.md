@@ -18,7 +18,7 @@ Tech Stack
  Installation
 
 bash
-git clone https://github.com/yourusername/ai-disease-diagnosis.git
+git clone https://github.com/mailasaleem09/ai-project.git
 
 cd ai-disease-diagnosis
 
